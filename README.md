@@ -1,5 +1,6 @@
 # SpotifyAd-block
 Ad blocking
+PLEASE CLICK VIEW RAW AT THE RIGHT UPPER CORNER BEFORE VIEWING THIS FILE
 
 For windows, try searching up EZBlocker online
 I do not hold any responsibility if this method mess up your system this is just a interesting way to see how to block ads.
