@@ -1,0 +1,2 @@
+# SpotifyAd-block
+Ad blocking
